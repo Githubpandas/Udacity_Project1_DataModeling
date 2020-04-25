@@ -1,7 +1,5 @@
-# Udacity_Project1_DataModeling
-Use postgresql to do data modeling
-
 # DataBase Modeling for StartUp Sparkify
+Use postgresql to do data modeling
 
 
 ## Table of Contents
